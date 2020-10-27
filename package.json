@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "promises-aplus-tests src/my-promise",
-    "answer": "promises-aplus-tests src/template"
+    "test": "promises-aplus-tests src/my-promise"
   },
   "author": "",
   "license": "ISC",
